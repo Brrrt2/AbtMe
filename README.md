@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albert Alcance</h1>
 <h3 align="center">A passionate programmer and web developer</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9fb8ed7d-c38b-433d-917b-c75c1695a80d/rei-chiquita-gangnam-style.gif" alt="rei-chiquita-gangnam-style" width="300" />
-</p>
+![Image](https://github.com/user-attachments/assets/d357493c-4a21-4083-bc62-1b5665effc06)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
