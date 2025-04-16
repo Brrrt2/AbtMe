@@ -74,6 +74,9 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://media.tenor.com/_QmsfAdBdyAAAAAC/rei-ayanami-dance.gif" alt="Rei Ayanami Dance" width="300"/>
+</p>
 
 ---
 
