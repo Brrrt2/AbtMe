@@ -2,10 +2,10 @@
 <h3 align="center">A passionate programmer and web developer</h3>
 
 <p align="center">
-  ![rei-chiquita-gangnam-style](https://github.com/user-attachments/assets/9fb8ed7d-c38b-433d-917b-c75c1695a80d)
+ 
 
 </p>
-
+ ![rei-chiquita-gangnam-style](https://github.com/user-attachments/assets/9fb8ed7d-c38b-433d-917b-c75c1695a80d)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brrt2" alt="brrt2" /></a> </p>
 
 - 🌱 I’m currently learning **Neural Networks, Data Analytics, Full-stack Web-Developer**
